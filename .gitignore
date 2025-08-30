@@ -1,0 +1,8 @@
+# Ignorar todo el contenido de la carpeta data/
+data/
+
+# Ignorar el archivo de entorno
+enviroment.env
+
+# Ignorar archivos de caché de Python
+__pycache__/
